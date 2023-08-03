@@ -1,0 +1,15 @@
+[__PRELIMINARY__] = true                                            # true | false
+[__PORTABLE__] = false                                              # true | false
+[__COMPANY_SHORT__] = SIEMENS                                       # string
+[__COMPANY__] = SIEMENS AG                                          # string
+[__COPYRIGHT__] = SIEMENS AG, 2023. All Rights Reserved.            # string
+[__COPYRIGHT_SHORT__] = 2023                                        # string
+[__PRODUCT_SHORT__] = CMC                                           # string
+[__PRODUCT__] = Create MyConfig                                     # string
+[__MAJ__] = 8                                                       # number
+[__MIN__] = 1                                                       # number
+[__SP__] = 0                                                        # number
+[__HF__] = 0                                                        # number
+[__EPL_MAJ__] = 2                                                   # number
+[__EPL_MIN__] = 1                                                   # number
+[__EPL_HF__] = 0                                                    # number
